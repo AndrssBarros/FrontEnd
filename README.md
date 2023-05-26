@@ -6,4 +6,4 @@
   ### Iniciar Projeto
   npm start
   
-  ### Front-End - React - JS
+  ### Front-End - React 
