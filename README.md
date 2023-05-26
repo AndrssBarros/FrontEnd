@@ -1,14 +1,5 @@
-# Como iniciar o projeto ?
+# Projeto CRUD Professor - Aluno
 
-## COMO CLONAR ?
-`` git clone https://github.com/helxysa/frontend.git ``
-
-## Dependencias
-### `npm install`
-
-## Como iniciar projeto ?
-
-Runs the app in the development mode.\
-
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
+### Informações
+  Projeto com CRUD de criação de uma tabela Professor, relacionada com a tabela Aluno
+  Back-End - React - JS
